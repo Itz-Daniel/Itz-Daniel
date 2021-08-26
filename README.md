@@ -6,7 +6,7 @@
 
 ### Hey i'm Itz_Danny to see you here! &nbsp;
 
-I am a programmer Potato 🥔 from Indonesia and my hobby is eating
+I am a programmer Nub 🥔 from UK and my hobby is coding,dancer
 - 🌱 I’m currently learning React
 - 🤖 Website my bot https://coming.soon/
 - 🥅 2021 Goals: make some awesome Discord Bots :v
